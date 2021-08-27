@@ -1,0 +1,63 @@
+body{
+}
+
+main{
+    text-align: center;
+}
+
+header{
+    background: gray;
+    padding: 20px 0;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 5em;
+    margin: 1em 0;
+}
+
+.nome{
+    width: 940px;
+    text-align: center;
+    margin: 3em auto;
+}
+
+.opcoes{
+    width: 700px;
+    margin: 5em auto;
+    text-align: center;
+}
+
+.opcoes label{
+}
+
+.opcoes input{
+}
+
+.botao{
+    padding: 2em 65px;
+    width: 350px;
+    margin: 5px auto;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    font-size: medium;
+}
+
+
+.tabela{
+    
+}
+
+table{
+    margin: 0 auto;
+}
+
+table button{
+    width: 100px;
+    height: 100px;
+}
+
+.botao:hover{
+    background-color: aquamarine;
+}
